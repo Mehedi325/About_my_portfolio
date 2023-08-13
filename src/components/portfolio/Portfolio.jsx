@@ -4,7 +4,7 @@ import IMG1 from "../../assets/acdemic.png";
 import IMG2 from "../../assets/e-commerce.png";
 import IMG3 from "../../assets/portfolio.png";
 import IMG4 from "../../assets/business.png";
-import IMG5 from "../../assets/";
+import IMG5 from "../../assets/Portfolio2.png";
 import IMG6 from "../../assets/e-school.png";
 import React from "react";
 
@@ -54,9 +54,9 @@ const Portfolio = () => {
       img: IMG5,
       description:
         "This site is About me.",
-      technologies: "Html | Tailwind CSS | JavaScript | React Js",
-      link: "",
-      github: "",
+      technologies: "Html | CSS | JavaScript | React Js",
+      link: "https://e-school-project.vercel.app/",
+      github: "https://github.com/Mehedi325/E-school-project",
     },
     {
       id: 6,
