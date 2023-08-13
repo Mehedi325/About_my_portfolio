@@ -53,10 +53,10 @@ const Portfolio = () => {
       title: "About Myself Portfolio Website",
       img: IMG5,
       description:
-        "This site is About me.",
+        "This Website is about me.",
       technologies: "Html | CSS | JavaScript | React Js",
-      link: "https://e-school-project.vercel.app/",
-      github: "https://github.com/Mehedi325/E-school-project",
+      link: "https://about-my-portfolio.vercel.app/",
+      github: "https://github.com/Mehedi325/About_my_portfolio",
     },
     {
       id: 6,
