@@ -2,7 +2,7 @@
 
 [🔗Live Demo🔗](https://rtaghizadev.vercel.app/)
 
-![Protfolio Website](src/assets/Portfolio%20preview.png)
+![Protfolio Website](src/assets/Portfolio2.png)
 
 <div align="center">
 
