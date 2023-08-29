@@ -29,9 +29,9 @@
 .experience__content {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    row-gap: 2rem;
-    padding-left: 2rem ;
-    margin-left: 2rem;
+    row-gap: 1.5rem;
+    margin-left: 1.5rem;
+    grid-row-gap: 1rem;
    
 }
 
