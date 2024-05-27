@@ -33,14 +33,12 @@ const Intro = () => {
             </article>
           </div>
           <p>
-            2+ years experienced Front End Developer with hands-on experience in
-            identifying web-based user interactions along with designing and
-            implementing highly-responsive user interface components by
-            deploying React concepts. Proficient in translating designs and
-            wireframes into high-quality code, and writing application interface
-            code via JavaScript and React JS workflows. Adept at monitoring and
-            maintaining frontend performance and troubleshooting and debugging
-            the same to bolster overall performance.
+            With two years of experience in Front-End web development using React.js and one year as an SEO expert,
+            I excel in creating dynamic, responsive, and user-friendly web applications. 
+            My skills in HTML, CSS, JavaScript, and state management libraries like Redux ensure robust and scalable solutions. 
+            As an SEO expert, I specialize in keyword research, on-page and off-page optimization, and performance tracking, 
+            ensuring high visibility and user engagement. 
+            I integrate these skills to deliver exceptional, optimized web experiences.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
